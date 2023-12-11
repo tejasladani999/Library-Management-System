@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System using .Net, Bootstrap, C# .
 Overview
 This repository contains the source code for a Library Management System implemented using .NET, Bootstrap, and JavaScript. The system is designed to efficiently manage and organize library resources, providing a user-friendly interface for both librarians and patrons.
 
